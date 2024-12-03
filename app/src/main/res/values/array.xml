@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category_list">
+        <item>新品推荐</item>
+        <item>招牌爆款</item>
+        <item>主厨推荐</item>
+        <item>开胃前菜</item>
+        <item>美味主食</item>
+        <item>美味甜品</item>
+        <item>鲜榨果汁</item>
+        <item>蔬菜沙拉</item>
+        <item>轻食小吃</item>
+    </string-array>
+</resources>
